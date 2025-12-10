@@ -16,7 +16,6 @@ Os interessados devem acessar o edital completo em PDF e realizar sua inscriçã
 📄 [Edital Aberto – PDF](https://drive.google.com/file/d/1KXP9P0MIacfR71N6D7cuT5E3_0T0XyYY/view?usp=sharing) <br>
 📝 [Formulário de Inscrição – Google Forms](https://forms.gle/EBHd94yUhhm9qarC9)
 
-<a href="https://forms.gle/EBHd94yUhhm9qarC9" target="_blank">Formulário de Inscrição – Google Forms</a>
 
 ---
 

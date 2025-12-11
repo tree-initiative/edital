@@ -9,7 +9,7 @@ Este espaço reúne os **editais de chamamento** para projetos vinculados aos pe
 Este edital de chamamento está destinado aos **estudantes do Centro de Ciência e Tecnologia em Energia e Sustentabilidade (CETENS) da UFRB**.  
 O objetivo é selecionar candidatos para participação nos projetos vinculados aos pesquisadores do **TREE initiative**, Promovendo oportunidades de aprendizado, pesquisa aplicada e integração acadêmica, em consonância com a indissociabilidade entre ensino, pesquisa e extensão..  
 
-Os interessados devem acessar o edital completo em PDF e realizar sua inscrição por meio do formulário disponibilizado.
+Os interessados devem acessar o edital completo em PDF e realizar sua inscrição por meio do formulário disponibilizado, sendo permitido apenas o uso de e-mail institucional da UFRB.
 
 📄 [Edital Aberto – PDF](https://drive.google.com/file/d/1KXP9P0MIacfR71N6D7cuT5E3_0T0XyYY/view?usp=sharing) <br>
 📝 [Formulário de Inscrição – Google Forms](https://forms.gle/EBHd94yUhhm9qarC9)

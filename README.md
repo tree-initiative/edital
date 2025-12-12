@@ -33,13 +33,26 @@ Os interessados devem acessar o edital completo em PDF e realizar sua inscriçã
 
 ## ✅ Inscrições Homologadas
 
-| **Nome do Candidato** | **Situação** |
-|------------------------|--------------|
-| Candidato 1            | Homologado   |
+| **Nome do Candidato**                           | **Situação** |
+|-------------------------------------------------|--------------|
+| Bianca Araujo Santana                           | Homologado   |
+| Bianca Salvador Soares                          | Homologado   |
+| Davi Batista Gonçalves Lopes de Jesus           | Homologado   |
+| Enzo Costa Souza                                | Homologado   |
+| Gabriel Matos Carneiro                          | Homologado   |
+| João WIllian Celestino Araujo                   | Homologado   |
+| Kaic Santana Chalegre de Jesus                  | Homologado   |
+| Marcelo Vitória de Lima                         | Homologado   |
+| Michelle Santos Gonçalves                       | Homologado   |
+| Rebeca Santana Rios                             | Homologado   |
+| Thaiara Glenda Nascimento Sena                  | Homologado   |
+
 
 ---
 
 ## 📍 Local da Entrevista
+
+Os candidatos com inscrições homologadas devem obrigatoriamente comparecer ao endereço da sala Google Meet no horário indicado abaixo.
 
 - **Entrevista Remota: Realizada via Google Meet, no dia 12/12/2025, das 08:00 às 12:00  
 - **Link para participação online (Google Meet):** [Acessar Entrevista](https://meet.google.com/cbq-wjpu-hnj)

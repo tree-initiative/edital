@@ -48,6 +48,18 @@ Os interessados devem acessar o edital completo em PDF e realizar sua inscriçã
 | Thaiara Glenda Nascimento Sena                  | Homologado   |
 
 
+## ❌ Inscrições Não Homologadas
+
+| **Nome do Candidato**                           | **Situação**                   |
+|-------------------------------------------------|--------------------------------|
+| Ananda samille da Silva Ferreira                | Não Homologado Item (3.4)      |
+| Joyce Sales de Souza                            | Não Homologado Item (3.4)      |
+| Gleidson de Meireles Costa                      | Não Homologado (Fora do prazo) |
+| Guilherme Santos Lima                           | Não Homologado (Fora do prazo) |
+| Thiago Gonçalves Freitas Melo                   | Não Homologado (Fora do prazo  |
+
+
+
 ---
 
 ## 📍 Local da Entrevista

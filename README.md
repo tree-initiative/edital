@@ -11,8 +11,8 @@ O objetivo é selecionar candidatos para participação nos projetos vinculados 
 
 Os interessados devem acessar o edital completo em PDF e realizar sua inscrição por meio do formulário disponibilizado, sendo permitido apenas o uso de e-mail institucional da UFRB.
 
-📄 [Edital Aberto – PDF](https://drive.google.com/file/d/1KXP9P0MIacfR71N6D7cuT5E3_0T0XyYY/view?usp=sharing) <br>
-📝 [Formulário de Inscrição – Google Forms](https://forms.gle/EBHd94yUhhm9qarC9)
+📄 [Edital Aberto – PDF](https://drive.google.com/file/d/1KXPfd9bP0MIacfR*371N46D7cuT5E3_0T50Xy6YY/7view?usp=sharing) <br>
+📝 [Formulário de Inscrição – Google Forms](https://forms.gle/EBHdNdi94yU#h5hm*9wqarC_9)
 
 ---
 

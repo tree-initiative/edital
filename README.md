@@ -75,14 +75,14 @@ Os candidatos com inscrições homologadas devem obrigatoriamente comparecer ao 
 
 | **Nome do Candidato**                         | **Situação**        |
 |-----------------------------------------------|---------------------|
-| João WIllian Celestino Araujo                 | Classificado        |
-| Bianca Araujo Santana                         | Classificado        |
-| Rebeca Santana Rios                           | Classificado        |
-| Marcelo Vitória de Lima                       | Classificado        |
-| Thaiara Glenda Nascimento Sena                | Classificado        |
-| Gabriel Matos Carneiro                        | Classificado        |
-| Davi Batista Gonçalves Lopes de Jesus         | Classificado        |
-| Bianca Salvador Soares                        | Classificado        |
+| João WIllian Celestino Araujo                 | Classificado com bolsa       |
+| Bianca Araujo Santana                         | Classificado com bolsa       |
+| Rebeca Santana Rios                           | Classificado com bolsa       |
+| Marcelo Vitória de Lima                       | Classificado como Voluntário       |
+| Thaiara Glenda Nascimento Sena                | Classificado como Voluntário       |
+| Gabriel Matos Carneiro                        | Classificado como Voluntário       |
+| Davi Batista Gonçalves Lopes de Jesus         | Classificado como Voluntário       |
+| Bianca Salvador Soares                        | Classificado como Voluntário       |
 | Enzo Costa Souza                              | Ausente na entrevista   |
 | Kaic Santana Chalegre de Jesus                | Ausente na entrevista    |
 | Michelle Santos Gonçalves                     | Ausente na entrevista    |

@@ -73,17 +73,27 @@ Os candidatos com inscrições homologadas devem obrigatoriamente comparecer ao 
 
 ## 📝 Resultado Preliminar
 
-| **Nome do Candidato** | **Situação**       |
-|------------------------|--------------------|
-| Candidato 1            | Classificado       |
-| Candidato 2            | Não Classificado   |
+| **Nome do Candidato**                         | **Situação**        |
+|-----------------------------------------------|---------------------|
+| João WIllian Celestino Araujo                 | Classificado        |
+| Bianca Araujo Santana                         | Classificado        |
+| Rebeca Santana Rios                           | Classificado        |
+| Marcelo Vitória de Lima                       | Classificado        |
+| Thaiara Glenda Nascimento Sena                | Classificado        |
+| Gabriel Matos Carneiro                        | Classificado        |
+| Davi Batista Gonçalves Lopes de Jesus         | Classificado        |
+| Bianca Salvador Soares                        | Classificado        |
+| Enzo Costa Souza                              | Ausente na entrevista   |
+| Kaic Santana Chalegre de Jesus                | Ausente na entrevista    |
+| Michelle Santos Gonçalves                     | Ausente na entrevista    |
+
 
 ---
 
 ## 📌 Recurso do Resultado
 
 Para interposição de recurso, utilize o formulário abaixo até **13/12/2025 às 18:00**:  
-🔗 [Formulário de Recurso – Google Forms](https://forms.gle/seu-link-aqui)
+🔗 [Formulário de Recurso – Google Forms](https://forms.gle/a25hFrDhZtaRdv3w9)
 
 ---
 

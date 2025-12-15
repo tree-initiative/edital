@@ -101,4 +101,11 @@ Para interposição de recurso, utilize o formulário abaixo até **13/12/2025 �
 
 | **Nome do Candidato** | **Situação**       |
 |------------------------|--------------------|
-| Candidato 1            | Selecionado        |
+| João WIllian Celestino Araujo                 | Classificado (Bolsa)       |
+| Bianca Araujo Santana                         | Classificado (Bolsa)       |
+| Rebeca Santana Rios                           | Classificado (Bolsa)       |
+| Marcelo Vitória de Lima                       | Classificado        |
+| Thaiara Glenda Nascimento Sena                | Classificado        |
+| Gabriel Matos Carneiro                        | Classificado        |
+| Davi Batista Gonçalves Lopes de Jesus         | Classificado        |
+| Bianca Salvador Soares                        | Classificado        |
